@@ -1,0 +1,29 @@
+body {
+    font-family: 'Sigmar One', cursive;
+   
+}
+
+.game-title h1 {
+    font-size: 90px;
+    margin: 0;
+}
+.main-game {
+    padding: 100px 100px 15px 100px;
+    margin: 0;
+}
+.main-game h1 {
+    font-size: 65px;
+    text-shadow: 3px 3px 5px rgba(92, 184, 92, 1);
+}
+.btn {
+    font-family: Helvetica, sans-serif;
+}
+.comptext {
+    padding-top: 20px;
+}
+.comptext h1 {
+    text-shadow: 3px 3px 5px rgba(92, 184, 92, 1);
+}
+#compWeapon {
+    text-shadow: 3px 3px 5px rgba(92, 184, 92, 1);
+}
